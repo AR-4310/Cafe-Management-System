@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C# codes\\CafeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|e:\\c# codes\\cafemanagementsystem\\cafemanagementsystem\\adminmanageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\adminmanageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\adminmanageaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\adminmanageaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\employeeplaceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\employeeplaceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\employeeplaceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\employeeplaceorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\employeeorderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\employeeorderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\employeeorderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\employeeorderhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\employeedashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\adminmanageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\adminmanageproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\adminmanageaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\adminmanageaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\formemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\employeeplaceorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\employeeplaceorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\C# codes\\CafeManagementSystem\\cafemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E96B492-FF70-415F-AC29-D2CD52E91A71}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeePlaceOrder.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeePlaceOrder.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\EmployeePlaceOrder.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeePlaceOrder.cs",
+              "RelativeToolTip": "CafeManagementSystem\\EmployeePlaceOrder.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAUwK8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:50:30.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormEmployee.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormEmployee.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\FormEmployee.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormEmployee.cs",
+              "RelativeToolTip": "CafeManagementSystem\\FormEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:00:15.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAdmin.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\FormAdmin.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormAdmin.cs",
+              "RelativeToolTip": "CafeManagementSystem\\FormAdmin.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAcwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:47:48.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormLogin.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\FormLogin.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormLogin.cs",
+              "RelativeToolTip": "CafeManagementSystem\\FormLogin.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:49:14.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\AdminDashboard.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\AdminDashboard.cs",
+              "RelativeToolTip": "CafeManagementSystem\\AdminDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T14:48:53.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminManageAccount.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\AdminManageAccount.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\AdminManageAccount.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\AdminManageAccount.cs",
+              "RelativeToolTip": "CafeManagementSystem\\AdminManageAccount.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T07:34:26.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminManageProduct.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\AdminManageProduct.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\AdminManageProduct.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\AdminManageProduct.cs",
+              "RelativeToolTip": "CafeManagementSystem\\AdminManageProduct.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAiwBkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T14:48:47.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeePlaceOrder.cs [Design]",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeePlaceOrder.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\EmployeePlaceOrder.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeePlaceOrder.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\EmployeePlaceOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:52:00.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeOrderHistory.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeeOrderHistory.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\EmployeeOrderHistory.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeeOrderHistory.cs",
+              "RelativeToolTip": "CafeManagementSystem\\EmployeeOrderHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:48:51.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeOrderHistory.cs [Design]",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeeOrderHistory.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\EmployeeOrderHistory.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeeOrderHistory.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\EmployeeOrderHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T10:33:29.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDashboard.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\EmployeeDashboard.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeeDashboard.cs",
+              "RelativeToolTip": "CafeManagementSystem\\EmployeeDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T20:12:13.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeeDashboard.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\EmployeeDashboard.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeeDashboard.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\EmployeeDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:02:36.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminManageProduct.cs [Design]",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\AdminManageProduct.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\AdminManageProduct.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\AdminManageProduct.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\AdminManageProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:27:42.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminManageAccount.cs [Design]",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\AdminManageAccount.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\AdminManageAccount.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\AdminManageAccount.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\AdminManageAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T07:30:02.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\AdminDashboard.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:03:15.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormEmployee.cs [Design]",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormEmployee.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\FormEmployee.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormEmployee.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\FormEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T13:01:18.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormAdmin.cs [Design]",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormAdmin.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\FormAdmin.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormAdmin.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\FormAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T13:56:15.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormLogin.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\FormLogin.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormLogin.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T11:54:18.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\DataAccess.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\DataAccess.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\DataAccess.cs",
+              "RelativeToolTip": "CafeManagementSystem\\DataAccess.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:52:33.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeePlaceOrder.Designer.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeePlaceOrder.Designer.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\EmployeePlaceOrder.Designer.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\EmployeePlaceOrder.Designer.cs",
+              "RelativeToolTip": "CafeManagementSystem\\EmployeePlaceOrder.Designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAmwH0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:33:53.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormAdmin.Designer.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\FormAdmin.Designer.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\FormAdmin.Designer.cs",
+              "RelativeToolTip": "CafeManagementSystem\\FormAdmin.Designer.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAlwJoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T09:54:30.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\Program.cs",
+              "ToolTip": "E:\\C# codes\\CafeManagementSystem\\CafeManagementSystem\\Program.cs",
+              "RelativeToolTip": "CafeManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T17:48:38.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

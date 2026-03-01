@@ -1,0 +1,54 @@
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.EmployeeOrderHistory.resources
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.FormEmployee.resources
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe.config
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.EmployeeDashboard.resources
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.EmployeePlaceOrder.resources
+C:\C Sharp\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.EmployeeProfile.resources
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminDashboard.resources
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminManageAccount.resources
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminManageProduct.resources
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.EmployeeDashboard.resources
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.EmployeeOrderHistory.resources
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.EmployeePlaceOrder.resources
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.EmployeeProfile.resources
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.FormAdmin.resources
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.FormEmployee.resources
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.FormLogin.resources
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\Users\Acer\Downloads\CafeManagementSystem-20260112T165958Z-3-001\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe.config
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminDashboard.resources
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminManageAccount.resources
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminManageProduct.resources
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.EmployeeDashboard.resources
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.EmployeeOrderHistory.resources
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.EmployeePlaceOrder.resources
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.FormAdmin.resources
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.FormEmployee.resources
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.FormLogin.resources
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe.config
+E:\C# codes\CafeManagementSystem\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
